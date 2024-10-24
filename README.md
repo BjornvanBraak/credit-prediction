@@ -12,3 +12,6 @@ Three dataset where used:
 # Project structure
 * Each dataset has its own jupyter notebook labbeled (__a, __b, __c). 
 * All the dataset use the .py starting with common_*
+
+# Paper
+[Link to original paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4730445)
